@@ -427,10 +427,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0e97eaecb9139c54da5bccf79a7841e4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::LiminalCreature.Input.CameraInput
-  requestedWidth: 1920
-  requestedHeight: 1080
-  requestedFPS: 60
-  preferredDeviceName: c922 Pro Stream Webcam
+  requestedWidth: 1280
+  requestedHeight: 720
+  requestedFPS: 30
   deviceIndex: 0
   provideRenderTexture: 1
   renderTextureFormat: 0
